@@ -1,0 +1,6 @@
+@function rem-calc($size) {
+    $value: $size / 16;
+    @return #{value}rem;
+}
+
+//convert px to rem
